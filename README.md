@@ -1,9 +1,9 @@
 🎈 - Olá, sou o drake.
 
 ```
--
--
--
+💣 - 16 anos
+💼 - Meu foco é ser Full Stack
+🇧🇷 - Brazil, Brasília.
 ```
 
 <!--
