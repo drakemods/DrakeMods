@@ -1,4 +1,4 @@
-🎈 - __Olá, sou o drake.
+🎈 - Olá, sou o drake.
 
 ```
 -
