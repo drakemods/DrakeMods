@@ -2,7 +2,6 @@
 
 ```
 💣 - 16 anos;
-💼 - Meu foco é ser um Full Stack;
 🇧🇷 - Brazil, Brasília.
 ```
 
