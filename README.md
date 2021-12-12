@@ -1,8 +1,8 @@
-🎈 - Olá, sou o drake.
+🎈 - Olá, sou o Drake.
 
 ```
 💣 - 16 anos;
-🇧🇷 - Brazil, Brasília.
+🇧🇷 - Brasília, Brazil.
 ```
 
 <!--
