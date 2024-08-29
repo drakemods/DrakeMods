@@ -1,7 +1,7 @@
 🎈 - Olá, sou o Drake.
 
 ```
-💣 - 17 anos;
+💣 - 19 anos;
 🇧🇷 - Brasília, Brazil.
 ```
 
